@@ -19,3 +19,6 @@ Fyrirbyggjandi vidhald er thad sem haegt er ad gera til thess ad komast hja thvi
 ESD stendur fyrir Electrostatic discharge. ESD er thegar thad kemur skyndilega streymir milli tveggja rafknuna hluti vegna snertingu.
 Haegt er ad verjast ESD med thvi ad hafa jord, med anti-static ulnlids bondum og thad er lika haegt ad geyma bunadinn i anti-static pokum.
 
+### 5. Hvað þarf að hafa í huga við val á spennugjöfum?
+
+Thad sem a ad hafa i huga er ad vera miss um ad spennugjafinn sem thu velur hefur meira en nog afl fyrir tolvubunadinn sem thu ert med.
