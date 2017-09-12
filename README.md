@@ -35,3 +35,7 @@ Thad sem a ad hafa i huga er ad vera miss um ad spennugjafinn sem thu velur hefu
 ### 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? Nefnið dæmi um báðar gerðir af spurningum.
 
 Til ad svara opnari spurningu tharft meiri ihugun um svarid heldur en lokadri spurningu. Lokadar spurningar thurfa bara ja eda nei svar.
+
+Daemi af opnadri spurningu: Hvernig er thad ad lifa i utlondum?
+Daemi af lokadri spurningu: Ertu lifandi?
+
