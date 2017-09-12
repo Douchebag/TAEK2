@@ -48,3 +48,18 @@ Jadartaeki eru thau taeki sem notad er thegar er ad vinna i tolvum, t.d. mus, ly
 1. Lyklabord
 1. Mus
 3. hljodnemi
+
+### 10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða
+leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem
+fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
+
+
+ Íhlutur | Tegund | Verð | Söluaðili
+ --- | --- | --- | ---
+ Orgjorvi | Ryzen | 89.000,- | Odyrid
+ Minni | Corsair 2x8GB | 19.000,- | Tolvutaekni
+ HDD | Seagate 3TB  | 16.000,- | Tolvutaekni
+ SSD | Crucial MX300 | 26.000,- | Tolvutaekni
+ Modurbord | ASRock X370 | 27.000,- | Kisildalur
+ Aflgjafi | Corsair AX860i | 44.000,- | Att
+ Kassi | Fractal Design R5 ATX | 29.000,- | Tolvutek
