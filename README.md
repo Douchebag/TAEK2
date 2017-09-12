@@ -22,3 +22,12 @@ Haegt er ad verjast ESD med thvi ad hafa jord, med anti-static ulnlids bondum og
 ### 5. Hvað þarf að hafa í huga við val á spennugjöfum?
 
 Thad sem a ad hafa i huga er ad vera miss um ad spennugjafinn sem thu velur hefur meira en nog afl fyrir tolvubunadinn sem thu ert med.
+
+### 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
+
+1. Identify the Problem
+2. Establish a Theory of Probable Cause
+3. Test the Theory to Determine Cause 
+4. Establish a Plan of Action to Resolve the Problem and Implement the Solution
+5. Verify Full System Functionality and, If Applicable, Implement Preventive Measures
+6. Document Findings, Actions, and Outcomes
