@@ -31,3 +31,7 @@ Thad sem a ad hafa i huga er ad vera miss um ad spennugjafinn sem thu velur hefu
 1. Establish a Plan of Action to Resolve the Problem and Implement the Solution
 5. Verify Full System Functionality and, If Applicable, Implement Preventive Measures
 1. Document Findings, Actions, and Outcomes
+
+### 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? Nefnið dæmi um báðar gerðir af spurningum.
+
+Til ad svara opnari spurningu tharft meiri ihugun um svarid heldur en lokadri spurningu. Lokadar spurningar thurfa bara ja eda nei svar.
