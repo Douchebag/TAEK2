@@ -28,6 +28,6 @@ Thad sem a ad hafa i huga er ad vera miss um ad spennugjafinn sem thu velur hefu
 1. Identify the Problem
 2. Establish a Theory of Probable Cause
 3. Test the Theory to Determine Cause 
-4. Establish a Plan of Action to Resolve the Problem and Implement the Solution
+1. Establish a Plan of Action to Resolve the Problem and Implement the Solution
 5. Verify Full System Functionality and, If Applicable, Implement Preventive Measures
-6. Document Findings, Actions, and Outcomes
+1. Document Findings, Actions, and Outcomes
