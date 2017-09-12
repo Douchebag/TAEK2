@@ -42,3 +42,9 @@ Daemi af lokadri spurningu: Ertu lifandi?
 ### 8. Hvað eru jaðartæki?
 
 Jadartaeki eru thau taeki sem notad er thegar er ad vinna i tolvum, t.d. mus, lyklabord og heyrnatol.
+
+### 9. Nefndu þrjú dæmi um inntakstæki.
+
+1. Lyklabord
+1. Mus
+3. hljodnemi
