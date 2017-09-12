@@ -14,4 +14,8 @@ ROM stendur fyrir read-only memory. ROM er tolvuminni sem tolvur geta bara lesid
 
 Fyrirbyggjandi vidhald er thad sem haegt er ad gera til thess ad komast hja thvi ad hlutur thurfi vidhald. 
 
+### 4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að verjast því þegar unnið er með tölvubúnað?
+
+ESD stendur fyrir Electrostatic discharge. ESD er thegar thad kemur skyndilega streymir milli tveggja rafknuna hluti vegna snertingu.
+Haegt er ad verjast ESD med thvi ad hafa jord, med anti-static ulnlids bondum og thad er lika haegt ad geyma bunadinn i anti-static pokum.
 
