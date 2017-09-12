@@ -39,3 +39,6 @@ Til ad svara opnari spurningu tharft meiri ihugun um svarid heldur en lokadri sp
 Daemi af opnadri spurningu: Hvernig er thad ad lifa i utlondum?
 Daemi af lokadri spurningu: Ertu lifandi?
 
+### 8. Hvað eru jaðartæki?
+
+Jadartaeki eru thau taeki sem notad er thegar er ad vinna i tolvum, t.d. mus, lyklabord og heyrnatol.
